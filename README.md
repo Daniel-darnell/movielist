@@ -1,10 +1,13 @@
-![HarperDB Movie Generator](images/MovieListCover.png)
-***
-## A List Of Movies Generated at Random
+**DANIEL DARNELL WANINA**
 
+## PROJECT DESCRIPTION
 This app will display a new movie every 40 seconds. The movie is generated randomly out a selection of 8 movies. You can also generate one manually by clicking the 'Generate New Movie' button. This project was built using React and the useHarperDB hook, as a tutorial showing how you can build a CRUD web app with the HarperDB/React stack.
 
-The full tutorial is over at my [blog](https://ubahthebuilder.tech/react-tutorial-building-a-movie-list-generator-with-react-and-harperdb)
+
+## TECHNOLOGIES USED
+- reactjs
+- HarperDB
+
 
 > If you like this project, I will really appreciate it if you can give this repository a star. Thank you!
 
